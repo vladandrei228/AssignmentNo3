@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Assignment 1">
+      <HintPath>..\..\..\..\Desktop\Assignment 1.dll</HintPath>
+    </Reference>
+    <Reference Include="Assignment1UnitTest">
+      <HintPath>..\..\..\..\Desktop\Assignment1UnitTest.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
